@@ -23,7 +23,6 @@ namespace ApiTravelLib.GraphQL.Queries
             });
         }
 
-
         static List<LibroDto> GetBooks()
         {
             var books = new List<LibroDto>{
